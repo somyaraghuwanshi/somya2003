@@ -1,166 +1,18 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on  <br>➡️ Java & Spring Boot backend projects<br><br>👯 I’m looking to collaborate on  <br>➡️ Beginner-friendly Java and Web Development projects<br><br>🤝 I’m looking for help with  <br>➡️ Advanced Spring Boot concepts and real-world backend development<br><br>🌱 I’m currently learning  <br>➡️ Spring Boot, REST APIs, Hibernate/JPA, and DSA<br><br>💬 Ask me about  <br>➡️ Java, OOP, SQL, Spring Boot basics, and GitHub<br><br>⚡ Fun fact  <br>➡️ I transitioned from Civil Engineering to IT and started building backend applications 🚀
 
-# 👋 Hey, I'm Somya Raghuwanshi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Developer+☕;Spring+Boot+Backend+Learner+🚀;REST+API+Developer+🌐;Problem+Solver+💻;Always+Learning+New+Technologies+⚡" />
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somyaraghuwanshi67@gmail.com) 
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Java • Spring Boot • Backend Development
-
-</div>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=somyaraghuwanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=somyaraghuwanshi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=somyaraghuwanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=somyaraghuwanshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🎓 B.Tech IT Student at Jabalpur Engineering College
-
-☕ Currently Learning
-➡️ Java  
-➡️ Spring Boot  
-➡️ REST APIs  
-➡️ MySQL  
-➡️ Hibernate/JPA  
-➡️ Data Structures & Algorithms
-
-🚀 Currently Building
-➡️ Full Stack Java Projects  
-➡️ Backend Applications using Spring Boot
-
-💬 Ask Me About
-➡️ Java Basics  
-➡️ OOP Concepts  
-➡️ Spring Boot  
-➡️ SQL & MySQL  
-➡️ REST APIs
-
-⚡ Fun Fact
-➡️ I started from Civil Engineering and transitioned into IT Development 🚀
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/somya-raghuwanshi-32b371267">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:somyaraghuwanshi567@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ⚒️ Tech Stack
-
-<div align="center">
-
-## 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,c,html,css" />
-
-<br><br>
-
-## ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=spring,mysql,git,github" />
-
-<br><br>
-
-## 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-## 🔹 Smart Contact Manager
-
-### 🚀 Features
-
-* Spring Boot Backend
-* Authentication & Authorization
-* CRUD Operations
-* Image Upload
-* MySQL Database
-* MVC Architecture
-
-🔗 Repository  
-➡️ ADD_YOUR_GITHUB_REPO_LINK
-
-</td>
-
-<td width="50%">
-
-## 🔹 UPI Without Internet
-
-### 📊 Features
-
-* Offline Payment Prototype
-* Spring Boot Backend
-* Secure Transactions
-* SQL Database
-* Transaction Synchronization
-
-🔗 Repository  
-➡️ ADD_YOUR_GITHUB_REPO_LINK
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📚 Current Focus
-
-```bash
-✔ Java Core
-✔ Spring Boot
-✔ REST APIs
-✔ MySQL Database
-✔ Hibernate/JPA
-✔ DSA Practice
-✔ Backend Development
-✔ Git & GitHub
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
